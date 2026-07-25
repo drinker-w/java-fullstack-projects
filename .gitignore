@@ -1,0 +1,27 @@
+# 环境变量（含密钥）
+.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Maven
+target/
+
+# Node
+node_modules/
+dist/
+
+# Docker
+mysql-data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 上传文件（本地测试用）
+uploads/
+
+# 本地草稿
+local_*
